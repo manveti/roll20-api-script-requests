@@ -5,4 +5,4 @@ Anyone with a GitHub account can create issues, but those issues can only be ass
 When creating an issue, please assign one of the following labels:
  * bug: A crash or failure of an existing script to adhere to documented behavior.
  * enhancement: A request for new features to be added to an existing script.
- * new cript: A request for an entirely new script to be written.
+ * new script: A request for an entirely new script to be written.
