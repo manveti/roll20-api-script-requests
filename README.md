@@ -7,4 +7,4 @@ When creating an issue, please assign one of the following labels if possible (u
  * enhancement: A request for new features to be added to an existing script.
  * new script: A request for an entirely new script to be written.
 
-If you know the owner of a script for which you're reporting a bug or requesting an enhancement, please @mention them in the issue description (e.g. @manveti), which will cause GitHub to notify them of the issue directly.
+If you know the author of a script for which you're reporting a bug or requesting an enhancement, please @mention them in the issue description (e.g. @manveti), which will cause GitHub to notify them of the issue directly.
